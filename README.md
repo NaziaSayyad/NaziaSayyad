@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there 👋, Hi, 👋 I am Nazia
+#### Full Stack Developer
+![Full Stack Developer](https://naziasayyad.github.io/)
 
-  
-- 🌱 I’m currently learning MERN Stack
-- 👨‍💻 All Projects are available  https://naziasayyad.github.io/
-- 💬 Ask me about MERN
-- 📫 How to reach me sayyadnazia756@gmail.com
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+
 
 
