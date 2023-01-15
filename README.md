@@ -17,9 +17,10 @@ web development.</h3>
 - 📫 How to reach me **sayyadnazia756@gmail.com**
 
 # Interests: 
-- 
+- I am an adventures person.
 - Like to work on backend. 
-- 
+- Explore new things.
+- Travelling lover.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
