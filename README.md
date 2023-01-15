@@ -49,6 +49,6 @@ throughout a challenging period of development. </h3>
 <br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naziasayyad&show_icons=true&locale=en" alt="naziasayyad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naziasayyad&" alt="naziasayyad" /></p>
+<p><img align="center" src="https://camo.githubusercontent.com/fa85ff4bc4b008611795a7f7500e2ef9142445d77655b505cba4209ec36ad531/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d68657961627261722673686f775f69636f6e733d74727565267468656d653d6c6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="naziasayyad" /></p>
 
 
