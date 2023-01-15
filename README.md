@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nazia</h1>
-<h3 align="center">A Highly enthusiastic and hardworking developer. A person who is eager to
+<h3 align="center"> A highly enthusiastic developer with the ability to write readable code. A person who is eager to
 learn new technologies have been able to deliver a consistent approach
-throughout a challenging period of development. </h3>
+throughout a challenging period of development.
+Quick learner and core knowledge in MERN stack technologies. Looking
+forward to collaborate with a team and to explore technologies related to
+web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naziasayyad&label=Profile%20views&color=0e75b6&style=flat" alt="naziasayyad" /> </p>
 
@@ -12,6 +15,11 @@ throughout a challenging period of development. </h3>
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **sayyadnazia756@gmail.com**
+
+# Interests: 
+- 
+- Like to work on backend. 
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -45,7 +53,7 @@ throughout a challenging period of development. </h3>
 
 
 <br> <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naziasayyad&show_icons=true&locale=en&layout=compact" alt="naziasayyad" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NaziaSayyad" alt="naziasayyad" /></p>
 <br> <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naziasayyad&show_icons=true&locale=en" alt="naziasayyad" /></p>
 
