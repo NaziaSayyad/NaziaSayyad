@@ -55,7 +55,8 @@ web development.</h3>
 
 
 <br> <br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=NaziaSayyad" alt="naziasayyad" /></p>
+<a href="http://www.github.com/NaziaSayyad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbtu&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 <br> <br>
 <p>&nbsp;<img align="center" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaziaSayyad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" alt="naziasayyad" /></p>
 
