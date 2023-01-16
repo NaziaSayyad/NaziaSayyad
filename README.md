@@ -55,8 +55,9 @@ web development.</h3>
 
 
 <br> <br>
+<h2> My Github Stats: </h2>
+<a href="http://www.github.com/NaziaSayyad"><img src="https://camo.githubusercontent.com/e02f4089d5ecf2ca0ebe1b5beed6487eb5f61eee165be2f19907e9557841e66e/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d726f68696e69656530303238267468656d653d7261646963616c" /></a>
 <p>
- <a href="https://camo.githubusercontent.com/e02f4089d5ecf2ca0ebe1b5beed6487eb5f61eee165be2f19907e9557841e66e/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d726f68696e69656530303238267468656d653d7261646963616c" > <a>
 <a href="http://www.github.com/NaziaSayyad"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbtu&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
    <p> 
