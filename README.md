@@ -61,6 +61,6 @@ web development.</h3>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=NaziaSayyad&point=f007d8&line=f0cd07&area_color=310938&theme=react-dark" alt="GitHub Commits Graph" />
 </a>
 
-<p><img align="center" src="https://camo.githubusercontent.com/fa85ff4bc4b008611795a7f7500e2ef9142445d77655b505cba4209ec36ad531/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170693f757365726e616d653d68657961627261722673686f775f69636f6e733d74727565267468656d653d6c6967687426696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" alt="naziasayyad" /></p>
-
-
+<a>
+   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NaziaSayyad&theme=radical&hide_border=true&include_all_commits=false&count_private=true" alt="Git stats" height="159" />
+</a>
