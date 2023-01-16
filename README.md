@@ -18,7 +18,8 @@ web development.</h3>
 
 # Interests: 
 - I am an adventures person.
-- Like to work on backend. 
+- Having never give up attitude. 
+- I turn coffee into code.
 - Explore new things.
 - Travelling lover.
 
